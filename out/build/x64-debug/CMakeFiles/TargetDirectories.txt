@@ -1,0 +1,3 @@
+C:/Users/Nikolay/Desktop/Cmakeproject/CMakeProject1/out/build/x64-debug/CMakeFiles/my_first_cmake_programm.dir
+C:/Users/Nikolay/Desktop/Cmakeproject/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikolay/Desktop/Cmakeproject/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
